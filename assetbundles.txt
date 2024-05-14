@@ -1,0 +1,21 @@
+'{
+  "linkurl": "https://nuttapanpp.github.io/AssetsBundles/",
+  "assetbundles": [
+    "metthier",
+    "sky",
+    "planb",
+    "planbair5",
+    "planbair8",
+    "planbargnarong",
+    "planbchaloemmahanakhon",
+    "planbmakkasan",
+    "planbrama4",
+    "planbratchavipharajayothin",
+    "planbratchavipharama7",
+    "planbsirikit",
+    "planbsuwanchin",
+    "planbvip",
+    "tararom",
+    "robot"
+  ]
+}

@@ -3,7 +3,7 @@
   "assetbundles": [
     {
       "name": "metthier",
-      "active": false
+      "active": true
     },
     {
       "name": "sky",

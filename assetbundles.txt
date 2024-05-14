@@ -57,8 +57,12 @@
       "name": "planbvip",
       "active": false
     },
-    {
+{
       "name": "tararom",
+      "active": false
+    },
+    {
+      "name": "tararom2",
       "active": true
     },
     {

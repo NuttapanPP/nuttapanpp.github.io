@@ -1,4 +1,4 @@
-'{
+{
   "linkurl": "https://nuttapanpp.github.io/AssetsBundles/",
   "assetbundles": [
     "metthier",

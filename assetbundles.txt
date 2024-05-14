@@ -15,7 +15,7 @@
     },
     {
       "name": "planbair5",
-      "active": true
+      "active": false
     },
     {
       "name": "planbair8",
@@ -59,7 +59,7 @@
     },
     {
       "name": "tararom",
-      "active": false
+      "active": true
     },
     {
       "name": "robot",

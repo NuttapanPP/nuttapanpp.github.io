@@ -7,7 +7,7 @@
     },
     {
       "name": "sky",
-      "active": true
+      "active": false
     },
     {
       "name": "planb",

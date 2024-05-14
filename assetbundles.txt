@@ -11,59 +11,59 @@
     },
     {
       "name": "planb",
-      "active": true
+      "active": false
     },
     {
       "name": "planbair5",
-      "active": true
+      "active": false
     },
     {
       "name": "planbair8",
-      "active": true
+      "active": false
     },
     {
       "name": "planbargnarong",
-      "active": true
+      "active": false
     },
     {
       "name": "planbchaloemmahanakhon",
-      "active": true
+      "active": false
     },
     {
       "name": "planbmakkasan",
-      "active": true
+      "active": false
     },
     {
       "name": "planbrama4",
-      "active": true
+      "active": false
     },
     {
       "name": "planbratchavipharajayothin",
-      "active": true
+      "active": false
     },
     {
       "name": "planbratchavipharama7",
-      "active": true
+      "active": false
     },
     {
       "name": "planbsirikit",
-      "active": true
+      "active": false
     },
     {
       "name": "planbsuwanchin",
-      "active": true
+      "active": false
     },
     {
       "name": "planbvip",
-      "active": true
+      "active": false
     },
     {
       "name": "tararom",
-      "active": true
+      "active": false
     },
     {
       "name": "robot",
-      "active": true
+      "active": false
     }
   ]
 }

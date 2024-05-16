@@ -63,7 +63,7 @@
     },
     {
       "name": "nirvana",
-      "active": true
+      "active": false
     },
     {
       "name": "robot",

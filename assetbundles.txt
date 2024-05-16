@@ -62,8 +62,8 @@
       "active": true
     },
     {
-      "name": "tararom2",
-      "active": false
+      "name": "Nirvana",
+      "active": true
     },
     {
       "name": "robot",

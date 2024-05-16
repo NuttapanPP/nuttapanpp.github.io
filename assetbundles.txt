@@ -62,7 +62,7 @@
       "active": true
     },
     {
-      "name": "Nirvana",
+      "name": "nirvana",
       "active": true
     },
     {

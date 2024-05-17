@@ -1,1 +1,65 @@
-{"liveview":false}
+{
+  "liveview": false,
+  "Url": {
+    "URL_PREFIXGATEWAY": [
+      "https://cms-gateway-stg.tossakan.io:65000",
+      "https://cms-gateway-preprod.tossakan.io",
+      "https://cms-gateway.tossakan.io"
+    ],
+    "URL_PREFIXPtoo": [
+      "http://10.2.114.57:8001",
+      "https://cms-gateway-preprod.tossakan.io",
+      "http://10.2.114.11:8001"
+    ],
+    "URL_cms_token_list": [
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo"
+    ],
+    "URL_sop_list": [
+      "https://open-sop-integration-stg.tossakan.io:65000/topic-view?event_id=",
+      "https://open-sop-integration-pre.tossakan.io/topic-view?event_id=",
+      "https://open-sop-integration.tossakan.io/topic-view?event_id="
+    ],
+    "URL_bls": [
+      "https://mioc-bls-stg.tossakan.io:65000/graphql",
+      "https://bls-pre.tossakan.io/graphql",
+      "https://bls.tossakan.io/graphql"
+    ],
+    "URL_odd": [
+      "https://odd-stg.tossakan.io:65000/graphql",
+      "https://odd-pre.tossakan.io/graphql",
+      "https://odd.tossakan.io/graphql"
+    ],
+    "URL_odd_token": [
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoX3VzZXJfaWQiOiJjZGpVZFgiLCJpc19hY3RpdmUiOmZhbHNlLCJ1c2VyX2VtcGxveWVlX2NvZGUiOiJUTUFJRDAwMSIsInVzZXJfdXNlcm5hbWUiOm51bGwsInVzZXJfZmlyc3RuYW1lIjoiVE1BSUQwMDFfTkFNRSIsInVzZXJfbGFzdG5hbWUiOiJUTUFJRDAwMV9MQVNUIiwidXNlcl9lbWFpbCI6Im51bGwiLCJ1c2VyX3Bob25lIjoiMDkxMTQxMTQxMSIsInBsYXRmb3JtIjpudWxsLCJ1c2VyX2F2YXRhciI6Imh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9vcHAtZGlzcGF0Y2gtc3RhZ2luZy9hY2NvdW50LWFjdGl2YXRlLzVkNzhiNDM2LTY5ZDQtNDdlYi1iN2IxLTg1MDViZDBiMzU0MS9iYi5wbmciLCJ1c2VyX2lkIjoiLUdZZ1Z2IiwiaWF0IjoxNzAxMzQ5MjI3fQ.yOtl52Za65M01IHfNhQPeAGnLTHqLJMCv6vy37hw6-Y",
+      "",
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3VzZXJuYW1lIjoiYXBwX3JldmlldzAxIiwibWV0bGlua191c2VyX2lkIjpudWxsLCJ1c2VyX2lkIjoiYTNNSExvIiwiaWF0IjoxNzAxMzM0NjA2fQ.Kh-zlIpMeeQBS4hUcAm7DnBzTDErt5WnevGTovF1bPU"
+    ],
+    "URL_know": [
+      "https://metthier.know-staging.kdlab.dev:45000/",
+      "https://metthier.know-preprod.kdlab.dev/",
+      "https://metthier.know.kdlab.dev/"
+    ],
+    "URL_mettlink_List": [
+      ".know-staging.kdlab.dev:45000/location/mioc/",
+      ".know-preprod.kdlab.dev/location/mioc/",
+      ".know.studio/location/mioc/"
+    ],
+    "URL_know_token": [
+      "Basic YTVjNDA0MjItMjI0Ni00ZTFlLWIzY2ItZDcyNjE5MDFjMTQxOm11bkdTM2lqb1lOdTB1OVNYTE9reDlyODVPNXBERG1XSWNiTmxUUTFILUhVWEZhZXhJQlJIcm1pZzZVcXE5S3k=",
+      "",
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3VzZXJuYW1lIjoiYXBwX3JldmlldzAxIiwibWV0bGlua191c2VyX2lkIjpudWxsLCJ1c2VyX2lkIjoiYTNNSExvIiwiaWF0IjoxNzAxMzM0NjA2fQ.Kh-zlIpMeeQBS4hUcAm7DnBzTDErt5WnevGTovF1bPU"
+    ],
+    "GQL_IncidentFetchBySite": [
+      "IncidentFetchBySiteV3",
+      "IncidentFetchBySiteV2",
+      "IncidentFetchBySiteV2"
+    ],
+    "GQL_IncidentFetchById": [
+      "IncidentFetchByIdV2",
+      "IncidentFetchById",
+      "IncidentFetchById"
+    ]
+  }
+}

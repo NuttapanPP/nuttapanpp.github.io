@@ -66,5 +66,47 @@
       "incidentFetchById",
       "incidentFetchById"
     ]
-  }
+  },
+  "socket": [
+    {
+      "incident": {
+        "wss": "wss://odd-stg.tossakan.io:65000/api/v2/incident",
+        "subscribe": [
+          "SUBSCRIBE:INCIDENT_ALL_SITE",
+          "SUBSCRIBE:INCIDENT_CHANGE:sky"
+        ]
+      },
+      "playback": [
+        "wss://cms-gateway-stg.tossakan.io:65000/gateway/playbackincident?cms=metthier",
+        "wss://cms-gateway-stg.tossakan.io:65000/gateway/playbackincident?cms=planb"
+      ]
+    },
+    {
+      "incident": {
+        "wss": "wss://odd-pre.tossakan.io/api/v1/incident",
+        "subscribe": [
+          "SUBSCRIBE:ALL_INCIDENT",
+          "SUBSCRIBE:INCIDENT_CHANGE:sky"
+        ]
+      },
+      "playback": [
+        "wss://cms-gateway-preprod.tossakan.io/gateway/playbackincident?cms=metthier",
+        "wss://cms-gateway-preprod.tossakan.io/gateway/playbackincident?cms=planb"
+      ]
+    },
+    {
+      "incident": {
+        "wss": "wss://odd.tossakan.io/api/v1/incident",
+        "subscribe": [
+          "SUBSCRIBE:ALL_INCIDENT",
+          "SUBSCRIBE:INCIDENT_CHANGE:sky"
+        ]
+      },
+      "playback": [
+        "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=metthier",
+        "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=planb",
+        "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=tararom"
+      ]
+    }
+  ]
 }

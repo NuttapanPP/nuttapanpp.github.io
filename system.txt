@@ -57,14 +57,14 @@
       "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3VzZXJuYW1lIjoiYXBwX3JldmlldzAxIiwibWV0bGlua191c2VyX2lkIjpudWxsLCJ1c2VyX2lkIjoiYTNNSExvIiwiaWF0IjoxNzAxMzM0NjA2fQ.Kh-zlIpMeeQBS4hUcAm7DnBzTDErt5WnevGTovF1bPU"
     ],
     "GQL_IncidentFetchBySite": [
-      "IncidentFetchBySiteV3",
-      "IncidentFetchBySiteV2",
-      "IncidentFetchBySiteV2"
+      "incidentFetchBySiteV3",
+      "incidentFetchBySiteV2",
+      "incidentFetchBySiteV2"
     ],
     "GQL_IncidentFetchById": [
-      "IncidentFetchByIdV2",
-      "IncidentFetchById",
-      "IncidentFetchById"
+      "incidentFetchByIdV2",
+      "incidentFetchById",
+      "incidentFetchById"
     ]
   }
 }

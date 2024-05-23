@@ -83,7 +83,7 @@
     },
     {
       "incident": {
-        "wss": "wss://odd-pre.tossakan.io/api/v1/incident",
+        "wss": "wss://odd-pre.tossakan.io/api/v2/incident",
         "subscribe": [
           "SUBSCRIBE:ALL_INCIDENT",
           "SUBSCRIBE:INCIDENT_CHANGE:sky"

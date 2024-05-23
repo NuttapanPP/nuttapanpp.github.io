@@ -1,0 +1,9 @@
+{
+  "login": {
+    "URL_bff": "https://bff-open.tossakan.io",
+    "URL_OAUTH_List": "https://oauth2.tossakan.io",
+    "URL_Mioc_Link": "https://login.tossakan.io",
+    "OAuth_Client_ID": "db0f4f73-6f4b-490c-be21-5e476545f8ca",
+    "OAuth_Client_Secret": "p.NkWbMhkw6Vl-iacrf59HJ4nC"
+  }
+}

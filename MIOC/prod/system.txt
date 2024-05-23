@@ -1,0 +1,33 @@
+{
+  "liveview": false,
+  "url": {
+    "URL_PREFIXGATEWAY": "https://cms-gateway.tossakan.io",
+    "URL_PREFIXPtoo": "http://10.2.114.11:8001",
+    "URL_cms_token_list": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
+    "URL_sop_list": "https://open-sop-integration.tossakan.io/topic-view?event_id=",
+    "URL_bls": "https://bls.tossakan.io/graphql",
+    "URL_odd": "https://odd.tossakan.io/graphql",
+    "URL_odd_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3VzZXJuYW1lIjoiYXBwX3JldmlldzAxIiwibWV0bGlua191c2VyX2lkIjpudWxsLCJ1c2VyX2lkIjoiYTNNSExvIiwiaWF0IjoxNzAxMzM0NjA2fQ.Kh-zlIpMeeQBS4hUcAm7DnBzTDErt5WnevGTovF1bPU",
+    "URL_bacnet": "https://mioc-bacnet-stg.tossakan.io:65000/graphql",
+    "URL_know": "https://metthier.know.kdlab.dev/",
+    "URL_mettlink_List": ".know.studio/location/mioc/",
+    "URL_know_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3VzZXJuYW1lIjoiYXBwX3JldmlldzAxIiwibWV0bGlua191c2VyX2lkIjpudWxsLCJ1c2VyX2lkIjoiYTNNSExvIiwiaWF0IjoxNzAxMzM0NjA2fQ.Kh-zlIpMeeQBS4hUcAm7DnBzTDErt5WnevGTovF1bPU",
+    "GQL_IncidentFetchBySite": "incidentFetchBySiteV2",
+    "GQL_IncidentFetchById": "incidentFetchById"
+  },
+  "socket": {
+    "incident": {
+      "wss": "wss://odd.tossakan.io/api/v1/incident",
+      "subscribe": [
+        "SUBSCRIBE:ALL_INCIDENT",
+        "SUBSCRIBE:INCIDENT_CHANGE:sky"
+      ]
+    },
+    "playback": [
+      "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=metthier",
+      "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=planb",
+      "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=tararom"
+    ],
+    "Multiuser": "wss://mioc-user-stg.tossakan.io:65000/"
+  }
+}

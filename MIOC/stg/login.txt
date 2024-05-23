@@ -1,0 +1,9 @@
+{
+  "login": {
+    "URL_bff": "https://bff-open-stg.tossakan.io:65000",
+    "URL_OAUTH_List": "https://oauth2-stg.tossakan.io:65000",
+    "URL_Mioc_Link": "https://login-stg.tossakan.io:65000",
+    "OAuth_Client_ID": "fba306e9-691d-4fd2-b5de-32bd5bb0ea32",
+    "OAuth_Client_Secret": "PMVmnSXZIcTziw7O0KdHm5MWRL"
+  }
+}

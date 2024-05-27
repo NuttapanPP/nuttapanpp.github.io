@@ -2,15 +2,15 @@
   "reportList": [
     {
       "cms_service": "metthier",
-      "list": []
+      "list": ["รปภ"]
     },
     {
       "cms_service": "planb",
-      "list": []
+      "list": ["ชาวบ้าน"]
     },
     {
       "cms_service": "tararom",
-      "list": []
+      "list": ["รปภ"]
     }
   ]
 }

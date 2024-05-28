@@ -2,7 +2,7 @@
   "liveview": false,
 "mioc_dashboard" : true,
 "incident" : true,
-"endcase_incident" = true,
+"endcase_incident" : true,
 "videowall" : false,
   "url": {
     "URL_PREFIXGATEWAY": [

@@ -77,7 +77,7 @@
         "wss": "wss://odd-stg.tossakan.io:65000/api/v2/incident",
         "subscribe": [
           "SUBSCRIBE:INCIDENT_ALL_SITE",
-          "SUBSCRIBE:INCIDENT_CHANGE:sky"
+          "SUBSCRIBE:INCIDENT_CHANGE"
         ]
       },
       "playback": [

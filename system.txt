@@ -1,5 +1,9 @@
 {
   "liveview": false,
+"mioc_dashboard" : true,
+"incident" : true,
+"endcase_incident" = true,
+"videowall" : false,
   "url": {
     "URL_PREFIXGATEWAY": [
       "https://cms-gateway-stg.tossakan.io:65000",

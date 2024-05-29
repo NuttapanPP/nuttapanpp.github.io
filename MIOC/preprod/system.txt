@@ -1,0 +1,49 @@
+{
+  "liveview": false,
+"mioc_dashboard" : true,
+"incident" : true,
+"endcase_incident" : true,
+"videowall" : false,
+  "url": {
+    "URL_PREFIXGATEWAY": 
+      "https://cms-gateway-preprod.tossakan.io",
+    "URL_PREFIXPtoo": 
+      "https://cms-gateway-preprod.tossakan.io",
+    "URL_cms_token_list": 
+      "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
+    "URL_sop_list": 
+      "https://open-sop-integration-pre.tossakan.io/topic-view?event_id=",
+    "URL_bls":
+      "https://bls-pre.tossakan.io/graphql",
+    "URL_odd": 
+      "https://odd-pre.tossakan.io/graphql",
+    "URL_odd_token": 
+      "",
+    "URL_bacnet": 
+      "https://mioc-bacnet-stg.tossakan.io:65000/graphql",
+    "URL_know":
+      "https://metthier.know-preprod.kdlab.dev/",
+    "URL_mettlink_List":
+      ".know-preprod.kdlab.dev/location/mioc/",
+    "URL_know_token": 
+      "",
+    "GQL_IncidentFetchBySite": 
+      "incidentFetchBySiteV2",
+    "GQL_IncidentFetchById": 
+      "incidentFetchById"
+  },
+  "socket": 
+    {
+      "incident": {
+        "wss": "wss://odd-pre.tossakan.io/api/v2/incident",
+        "subscribe": [
+          "SUBSCRIBE:ALL_INCIDENT",
+          "SUBSCRIBE:INCIDENT_CHANGE:sky"
+        ]
+      },
+      "playback": [
+        "wss://cms-gateway-preprod.tossakan.io/gateway/playbackincident?cms=metthier",
+        "wss://cms-gateway-preprod.tossakan.io/gateway/playbackincident?cms=planb"
+      ]
+    }
+}

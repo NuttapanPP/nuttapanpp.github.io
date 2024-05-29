@@ -14,13 +14,13 @@
     "URL_sop_list": 
       "https://open-sop-integration-pre.tossakan.io/topic-view?event_id=",
     "URL_bls":
-      "https://bls-pre.tossakan.io/graphql",
+      "https://bls-pre.tossakan.io",
     "URL_odd": 
-      "https://odd-pre.tossakan.io/graphql",
+      "https://odd-pre.tossakan.io",
     "URL_odd_token": 
       "",
     "URL_bacnet": 
-      "https://mioc-bacnet-stg.tossakan.io:65000/graphql",
+      "https://mioc-bacnet-stg.tossakan.io:65000",
     "URL_know":
       "https://metthier.know-preprod.kdlab.dev/",
     "URL_mettlink_List":

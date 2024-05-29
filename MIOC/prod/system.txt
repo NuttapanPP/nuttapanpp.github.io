@@ -12,15 +12,17 @@
     "URL_know": "https://metthier.know.kdlab.dev/",
     "URL_mettlink_List": ".know.studio/location/mioc/",
     "URL_know_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3VzZXJuYW1lIjoiYXBwX3JldmlldzAxIiwibWV0bGlua191c2VyX2lkIjpudWxsLCJ1c2VyX2lkIjoiYTNNSExvIiwiaWF0IjoxNzAxMzM0NjA2fQ.Kh-zlIpMeeQBS4hUcAm7DnBzTDErt5WnevGTovF1bPU",
-    "GQL_IncidentFetchBySite": "incidentFetchBySiteV2",
-    "GQL_IncidentFetchById": "incidentFetchById"
+    "GQL_IncidentFetchBySite": 
+      "incidentFetchBySiteV3",
+    "GQL_IncidentFetchById": 
+      "incidentFetchByIdV2"
   },
   "socket": {
     "incident": {
-      "wss": "wss://odd.tossakan.io/api/v1/incident",
+      "wss": "wss://odd.tossakan.io/api/v2/incident",
       "subscribe": [
-        "SUBSCRIBE:ALL_INCIDENT",
-        "SUBSCRIBE:INCIDENT_CHANGE:sky"
+          "SUBSCRIBE:INCIDENT_ALL_SITE",
+          "SUBSCRIBE:INCIDENT_ALL_SITE_UPDATE"
       ]
     },
     "playback": [

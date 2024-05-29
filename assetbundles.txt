@@ -68,6 +68,10 @@
     {
       "name": "robot",
       "active": false
+    },
+    {
+      "name": "boonrawd",
+      "active": true
     }
   ]
 }

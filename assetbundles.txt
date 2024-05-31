@@ -72,6 +72,10 @@
     {
       "name": "boonrawd",
       "active": true
+    },
+    {
+      "name": "singhacomplex",
+      "active": true
     }
   ]
 }

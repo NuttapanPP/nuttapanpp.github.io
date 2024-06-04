@@ -1,0 +1,81 @@
+{
+  "linkurl": "https://nuttapanpp.github.io/AssetsBundles/",
+  "assetbundles": [
+    {
+      "name": "metthier",
+      "active": true
+    },
+    {
+      "name": "sky",
+      "active": true
+    },
+    {
+      "name": "planb",
+      "active": true
+    },
+    {
+      "name": "planbair5",
+      "active": true
+    },
+    {
+      "name": "planbair8",
+      "active": true
+    },
+    {
+      "name": "planbargnarong",
+      "active": true
+    },
+    {
+      "name": "planbchaloemmahanakhon",
+      "active": true
+    },
+    {
+      "name": "planbmakkasan",
+      "active": true
+    },
+    {
+      "name": "planbrama4",
+      "active": true
+    },
+    {
+      "name": "planbratchavipharajayothin",
+      "active": true
+    },
+    {
+      "name": "planbratchavipharama7",
+      "active": true
+    },
+    {
+      "name": "planbsirikit",
+      "active": true
+    },
+    {
+      "name": "planbsuwanchin",
+      "active": true
+    },
+    {
+      "name": "planbvip",
+      "active": false
+    },
+{
+      "name": "tararom",
+      "active": true
+    },
+    {
+      "name": "nirvana",
+      "active": false
+    },
+    {
+      "name": "robot",
+      "active": false
+    },
+    {
+      "name": "boonrawd",
+      "active": true
+    },
+    {
+      "name": "singhacomplex",
+      "active": true
+    }
+  ]
+}

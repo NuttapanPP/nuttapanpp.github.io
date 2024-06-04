@@ -1,0 +1,17 @@
+{
+  "filter_site": [
+    "A.A. Building",
+    "PLANB Head Office",
+    "PLANB Airport Zone 8",
+    "PLANB Airport Zone 5",
+    "PLANB Suwanchin",
+    "PLANB Makkasan",
+    "PLANB Chaloem Maha Nakhon",
+    "PLANB Argnarong",
+    "PLANB Sirikit",
+    "PLANB Ratchavipha_Ratchayothin",
+    "PLANB Ratchavipha_Rama7",
+    "PLANB Rama 4",
+    "Tararom"
+  ]
+}

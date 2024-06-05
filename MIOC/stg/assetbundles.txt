@@ -76,6 +76,10 @@
     {
       "name": "singhacomplex",
       "active": true
+    },
+    {
+      "name": "mochitbtsstation",
+      "active": true
     }
   ]
 }

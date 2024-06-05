@@ -1,0 +1,126 @@
+{
+  "linkurl": "https://nuttapanpp.github.io/AssetsBundles/",
+  "workspace": [
+    {
+      "name": "SKY",
+      "active": true,
+      "namespace": [
+        {
+          "name": "metthier",
+          "active": true
+        },
+        {
+          "name": "sky",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "PlanB",
+      "active": true,
+      "namespace": [
+        {
+          "name": "planb",
+          "active": true
+        },
+        {
+          "name": "planbair5",
+          "active": true
+        },
+        {
+          "name": "planbair8",
+          "active": true
+        },
+        {
+          "name": "planbargnarong",
+          "active": true
+        },
+        {
+          "name": "planbchaloemmahanakhon",
+          "active": true
+        },
+        {
+          "name": "planbmakkasan",
+          "active": true
+        },
+        {
+          "name": "planbrama4",
+          "active": true
+        },
+        {
+          "name": "planbratchavipharajayothin",
+          "active": true
+        },
+        {
+          "name": "planbratchavipharama7",
+          "active": true
+        },
+        {
+          "name": "planbsirikit",
+          "active": true
+        },
+        {
+          "name": "planbsuwanchin",
+          "active": true
+        },
+        {
+          "name": "planbvip",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Tararom",
+      "active": true,
+      "namespace": [
+        {
+          "name": "tararom",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "Boonrawd",
+      "active": true,
+      "namespace": [
+        {
+          "name": "boonrawd",
+          "active": true
+        },
+        {
+          "name": "singhacomplex",
+          "active": true
+        }
+      ]
+    }
+,
+    {
+      "name": "Boonrawd",
+      "active": true,
+      "namespace": [
+        {
+          "name": "boonrawd",
+          "active": true
+        },
+        {
+          "name": "singhacomplex",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "BTS",
+      "active": true,
+      "namespace": [
+        {
+          "name": "mochitbtsstation",
+          "active": true
+        },
+        {
+          "name": "btsoffice",
+          "active": true
+        }
+      ]
+    }
+  ]
+}

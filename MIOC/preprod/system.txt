@@ -12,11 +12,11 @@
     "URL_cms_token_list": 
       "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
     "URL_sop_list": 
-      "https://open-sop-integration-pre.metthier.ai/topic-view?event_id=",
+      "https://open-sop-integration-pre.tossakan.io/topic-view?event_id=",
     "URL_bls":
-      "https://bls-pre.metthier.ai",
+      "https://bls-pre.tossakan.io",
     "URL_odd": 
-      "https://odd-pre.metthier.ai",
+      "https://odd-pre.tossakan.io",
     "URL_odd_token": 
       "",
     "URL_bacnet": 
@@ -28,22 +28,20 @@
     "URL_know_token": 
       "",
     "GQL_IncidentFetchBySite": 
-      "incidentFetchBySiteV2",
+      "incidentFetchBySiteV3",
     "GQL_IncidentFetchById": 
-      "incidentFetchById"
+      "incidentFetchByIdV2"
   },
   "socket": 
     {
       "incident": {
-        "wss": "wss://odd-pre.metthier.ai/api/v2/incident",
+        "wss": "wss://odd-pre.tossakan.io/api/v2/incident",
         "subscribe": [
-          "SUBSCRIBE:ALL_INCIDENT",
-          "SUBSCRIBE:INCIDENT_CHANGE:sky"
+          "SUBSCRIBE:INCIDENT_ALL_SITE",
+          "SUBSCRIBE:INCIDENT_ALL_SITE_UPDATE"
         ]
       },
       "playback": [
-        "wss://cms-gateway-preprod.tossakan.io/gateway/playbackincident?cms=metthier",
-        "wss://cms-gateway-preprod.tossakan.io/gateway/playbackincident?cms=planb"
       ]
     }
 }

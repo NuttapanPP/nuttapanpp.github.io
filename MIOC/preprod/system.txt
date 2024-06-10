@@ -14,9 +14,9 @@
     "URL_sop_list": 
       "https://open-sop-integration-pre.tossakan.io/topic-view?event_id=",
     "URL_bls":
-      "https://bls-pre.tossakan.io",
+      "https://bls-pre.metthier.ai",
     "URL_odd": 
-      "https://odd-pre.tossakan.io",
+      "https://odd-pre.metthier.ai",
     "URL_odd_token": 
       "",
     "URL_bacnet": 
@@ -35,7 +35,7 @@
   "socket": 
     {
       "incident": {
-        "wss": "wss://odd-pre.tossakan.io/api/v2/incident",
+        "wss": "wss://odd-pre.metthier.ai/api/v2/incident",
         "subscribe": [
           "SUBSCRIBE:ALL_INCIDENT",
           "SUBSCRIBE:INCIDENT_CHANGE:sky"

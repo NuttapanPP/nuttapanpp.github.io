@@ -14,9 +14,9 @@
     "URL_sop_list": 
       "https://open-sop-integration-pre.metthier.ai/topic-view?event_id=",
     "URL_bls":
-      "https://bls-pre.tossakan.io",
+      "https://bls-pre.metthier.ai",
     "URL_odd": 
-      "https://odd-pre.tossakan.io",
+      "https://odd-pre.metthier.ai",
     "URL_odd_token": 
       "",
     "URL_bacnet": 
@@ -28,17 +28,17 @@
     "URL_know_token": 
       "",
     "GQL_IncidentFetchBySite": 
-      "incidentFetchBySiteV3",
+      "incidentFetchBySiteV2",
     "GQL_IncidentFetchById": 
-      "incidentFetchByIdV2"
+      "incidentFetchById"
   },
   "socket": 
     {
       "incident": {
-        "wss": "wss://odd-pre.tossakan.io/api/v2/incident",
+        "wss": "wss://odd-pre.metthier.ai/api/v2/incident",
         "subscribe": [
-          "SUBSCRIBE:INCIDENT_ALL_SITE",
-          "SUBSCRIBE:INCIDENT_ALL_SITE_UPDATE"
+          "SUBSCRIBE:ALL_INCIDENT",
+          "SUBSCRIBE:INCIDENT_CHANGE:sky"
         ]
       },
       "playback": [

@@ -13,7 +13,7 @@
     "URL_cms_token_list":
       "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
     "URL_sop_list": 
-      "https://open-sop-integration-stg.tossakan.io:65000/topic-view?event_id=",
+      "https://open-sop-integration-stg.metthier.ai:65000/topic-view?event_id=",
     "URL_bls": 
       "https://mioc-bls-stg.tossakan.io:65000",
     "URL_odd": 

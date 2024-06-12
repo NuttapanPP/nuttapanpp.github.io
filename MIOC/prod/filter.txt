@@ -13,6 +13,6 @@
     "PLANB Ratchavipha_Rama7",
     "PLANB Rama 4",
     "Tararom",
-"Boon Rawd Brewery"
+    "Boon Rawd Brewery"
   ]
 }

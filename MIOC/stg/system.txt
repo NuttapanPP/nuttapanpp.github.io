@@ -6,7 +6,7 @@
 "videowall" : false,
   "url": {
     "URL_PREFIXGATEWAY": 
-      "https://cms-gateway-stg.metthier.ai:65000"
+      "https://cms-gateway-stg.tossakan.io:65000"
     ,
     "URL_PREFIXPtoo":
       "http://10.2.114.57:8001",

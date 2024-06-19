@@ -55,7 +55,7 @@
     },
     {
       "name": "planbvip",
-      "active": false
+      "active": true
     },
 {
       "name": "tararom",
@@ -63,11 +63,11 @@
     },
     {
       "name": "nirvana",
-      "active": false
+      "active": true
     },
     {
       "name": "robot",
-      "active": false
+      "active": true
     },
     {
       "name": "boonrawd",

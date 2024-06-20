@@ -43,8 +43,6 @@
         ]
       },
       "playback": [
-        "wss://cms-gateway-stg.tossakan.io:65000/gateway/playbackincident?cms=metthier",
-        "wss://cms-gateway-stg.tossakan.io:65000/gateway/playbackincident?cms=planb"
       ]
     }
 }

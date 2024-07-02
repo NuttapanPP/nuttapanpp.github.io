@@ -14,4 +14,7 @@
     "PLANB Rama 4",
     "Tararom"
   ]
+,
+  "incidentType" : ["INTRUSION","BLACKLIST","FIRE_ALARM"],
+  "severityLevel": ["CRITICAL","HIGH","NORMAL"]
 }

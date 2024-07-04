@@ -10,7 +10,7 @@
       "path": "boonrawd.png"
     },
 {
-"key" : "SINGHA COMPLEX",
+"key" : "singha complex",
 "path" : "Singha.jpg"
 }
   ]

@@ -8,6 +8,10 @@
     {
       "key": "boon rawd",
       "path": "boonrawd.png"
-    }
+    },
+{
+"key" : "SINGHA COMPLEX",
+"path" : "Singha.jpg"
+}
   ]
 }

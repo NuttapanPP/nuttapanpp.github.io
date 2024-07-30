@@ -14,7 +14,8 @@
     "PLANB Rama 4",
     "Tararom",
     "Boon Rawd Brewery",
-	"SINGHA COMPLEX"
+    "SINGHA COMPLEX",
+    "PBH Nakhon Pathom"
   ],
   "incidentType" : ["Intrusion","Blacklist","Fire_alarm"],
   "severityLevel": ["Critical","High","Normal"]

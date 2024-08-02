@@ -12,6 +12,10 @@
 {
 "key" : "singha complex",
 "path" : "Singha.jpg"
+},
+{
+"key" : "plan b house vvip",
+"path" : "VIPHouse.png"
 }
   ]
 }

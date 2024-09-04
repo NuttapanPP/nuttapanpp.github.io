@@ -92,6 +92,16 @@
           "active": true
         }
       ]
+    },
+    {
+      "name": "SC Asset",
+      "active": true,
+      "namespace": [
+        {
+          "name": "scasset",
+          "active": true
+        }
+      ]
     }
   ]
 }

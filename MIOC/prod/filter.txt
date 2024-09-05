@@ -15,7 +15,8 @@
     "Tararom",
     "Boon Rawd Brewery",
     "SINGHA COMPLEX",
-    "PBH Nakhon Pathom"
+    "PBH Nakhon Pathom",
+    "SC ASSET GBB - UT"
   ],
   "incidentType" : ["Intrusion","Blacklist","Fire_alarm"],
   "severityLevel": ["Critical","High","Normal"]

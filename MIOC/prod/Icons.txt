@@ -9,13 +9,17 @@
       "key": "boon rawd",
       "path": "boonrawd.png"
     },
-{
-"key" : "singha complex",
-"path" : "Singha.jpg"
-},
-{
-"key" : "plan b - vip house",
-"path" : "VIPHouse.png"
-}
+    {
+      "key": "singha complex",
+      "path": "Singha.jpg"
+    },
+    {
+      "key": "plan b - vip house",
+      "path": "VIPHouse.png"
+    },
+    {
+      "key": "sc asset gbb - ut",
+      "path": "scasset.png"
+    }
   ]
 }

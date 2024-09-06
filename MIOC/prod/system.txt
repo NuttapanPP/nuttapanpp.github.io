@@ -33,7 +33,8 @@
       "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=metthier",
       "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=planb",
       "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=tararom",
-	"wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=boonrawd"
+	"wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=boonrawd",
+"wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=sc_asset"
     ],
     "Multiuser": "wss://mioc-user-stg.tossakan.io:65000/"
   }

@@ -12,7 +12,7 @@
     "URL_bls": "https://bls.metthier.ai",
     "URL_odd": "https://odd.metthier.ai",
     "URL_odd_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3VzZXJuYW1lIjoiYXBwX3JldmlldzAxIiwibWV0bGlua191c2VyX2lkIjpudWxsLCJ1c2VyX2lkIjoiYTNNSExvIiwiaWF0IjoxNzAxMzM0NjA2fQ.Kh-zlIpMeeQBS4hUcAm7DnBzTDErt5WnevGTovF1bPU",
-    "URL_bacnet": "https://mioc-bacnet-stg.tossakan.io:65000",
+    "URL_bacnet": "https://mioc-bacnet.metthier.ai",
     "URL_bacnet_mqtt_address": "34.142.233.192",
     "URL_bacnet_mqtt_port": "61883",
     "URL_know": "https://metthier.know.kdlab.dev/",

@@ -38,6 +38,6 @@
 	"wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=boonrawd",
 "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=sc_asset"
     ],
-    "Multiuser": "wss://mioc-user-stg.tossakan.io:65000/"
+    "Multiuser": "wss://mioc-user.metthier.ai"
   }
 }

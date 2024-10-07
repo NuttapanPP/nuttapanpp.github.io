@@ -1,0 +1,8 @@
+{
+	"version" : "1.8.6",
+	"versionFile" : "Version.txt",
+	"gameZip" : "Build.zip",
+	"gameFolder" : "Build",
+	"gameExe" : "MIOC.exe",
+	"url_file":"https://www.dropbox.com/scl/fi/ct9gloe90azkmn1wf9gls/Build.zip?rlkey=lkqcmfzt6di9x61m3m8gqbwhs&st=5vy6xfct&dl=1"
+}

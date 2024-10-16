@@ -5,7 +5,7 @@
 "endcase_incident" : true,
 "videowall" : false,
   "url": {
-    "URL_PREFIXGATEWAY": "https://cms-gateway.tossakan.io",
+    "URL_PREFIXGATEWAY": "https://cms-gateway.metthier.ai",
     "URL_PREFIXPtoo": "http://10.2.114.11:8001",
     "URL_cms_token_list": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
     "URL_sop_list": "https://open-sop-integration.metthier.ai/topic-view?event_id=",
@@ -32,11 +32,11 @@
       ]
     },
     "playback": [
-      "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=metthier",
-      "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=planb",
-      "wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=tararom",
-	"wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=boonrawd",
-"wss://cms-gateway.tossakan.io/gateway/playbackincident?cms=sc_asset"
+      "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=metthier",
+      "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=planb",
+      "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=tararom",
+	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=boonrawd",
+	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=sc_asset"
     ],
     "Multiuser": "wss://mioc-user.metthier.ai"
   }

@@ -12,10 +12,11 @@
     "PLANB Ratchavipha_Ratchayothin",
     "PLANB Ratchavipha_Rama7",
     "PLANB Rama 4",
+    "PLANB BRN",
+    "PBH Nakhon Pathom",
     "Tararom",
     "Boon Rawd Brewery",
     "SINGHA COMPLEX",
-    "PBH Nakhon Pathom",
     "SC ASSET GBB - UT",
     "SC ASSET GBB - PB"
   ],

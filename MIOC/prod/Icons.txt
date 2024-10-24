@@ -20,6 +20,10 @@
     {
       "key": "sc asset gbb - ut",
       "path": "scasset.png"
+    },
+    {
+      "key": "sc asset gbb - pb",
+      "path": "scasset.png"
     }
   ]
 }

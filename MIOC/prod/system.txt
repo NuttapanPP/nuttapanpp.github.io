@@ -38,6 +38,7 @@
 	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=boonrawd",
 	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=sc_asset"
     ],
-    "Multiuser": "wss://mioc-user.metthier.ai"
+    "Multiuser": "wss://mioc-user.metthier.ai",
+    "bacnet" : "wss://mioc-bacnet-socket.metthier.ai"
   }
 }

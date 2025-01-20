@@ -1,0 +1,18 @@
+{
+    "user": {
+        "user_id": "test",
+        "password": "test"
+    },
+    "parameter": {
+        "resolution": "640x480",
+        "protocol":"webrtc",
+        "bitrate" : {
+            "SendBandwidth" : "low"
+        }
+    },
+    "cameras": [
+        {
+            "device_id": ""
+        }
+    ]
+}

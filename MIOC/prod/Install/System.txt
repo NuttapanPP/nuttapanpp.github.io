@@ -1,6 +1,6 @@
 {
 	"backupVersion" : "1.9.5",
-	"version" : "1.9.7",
+	"version" : "1.9.8",
 	"versionFile" : "Version.txt",
 	"gameZip" : "Build.zip",
 	"gameFolder" : "Build",

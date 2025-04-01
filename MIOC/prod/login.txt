@@ -4,6 +4,7 @@
     "URL_OAUTH_List": "https://oauth2.metthier.ai",
     "URL_Mioc_Link": "https://login.metthier.ai",
     "OAuth_Client_ID": "6a428151-e091-41d2-8082-30b0e2fa51ed",
-    "OAuth_Client_Secret": "duJzQX.VGvfvy5QU6Dj_pXhCFc"
+    "OAuth_Client_Secret": "duJzQX.VGvfvy5QU6Dj_pXhCFc",
+    "URL_Discord" : "https://discord.com/api/webhooks/1351043089103458315/adiOXnYzqy0QR6lyw8QhDQhYswAzulUJCpguY-RiNAyWs-wdWrDgdE14PM0ywIpgHujr_test"
   }
 }

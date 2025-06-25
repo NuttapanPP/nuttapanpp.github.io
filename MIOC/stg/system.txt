@@ -5,15 +5,15 @@
   "endcase_incident": true,
   "videowall": false,
   "url": {
-    "URL_PREFIXGATEWAY": "https://cms-gateway-stg.tossakan.io:65000",
+    "URL_PREFIXGATEWAY": "https://cms-gateway-stg.metthier.ai:65000",
     "URL_PREFIXPtoo": "http://10.2.114.57:8001",
     "URL_PREFIXCCTV": "https://cctv-mioc.metthier.ai:21443",
     "URL_cms_token_list": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNreS5tZXR0aGVyIiwiaWF0IjoxNzAyNjEzNDg1LCJleHAiOjE3MzQxNDk0ODV9.EEZFQ9VyATlE3BQJmjGuqSLL_KqYSSyqwZPJXwW2-eo",
     "URL_sop_list": "https://open-sop-integration-stg.metthier.ai:65000/topic-view?event_id=",
-    "URL_bls": "https://mioc-bls-stg.tossakan.io:65000",
-    "URL_odd": "https://odd-stg.tossakan.io:65000",
+    "URL_bls": "https://mioc-bls-stg.metthier.ai:65000",
+    "URL_odd": "https://odd-stg.metthier.ai:65000",
     "URL_odd_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoX3VzZXJfaWQiOiJjZGpVZFgiLCJpc19hY3RpdmUiOmZhbHNlLCJ1c2VyX2VtcGxveWVlX2NvZGUiOiJUTUFJRDAwMSIsInVzZXJfdXNlcm5hbWUiOm51bGwsInVzZXJfZmlyc3RuYW1lIjoiVE1BSUQwMDFfTkFNRSIsInVzZXJfbGFzdG5hbWUiOiJUTUFJRDAwMV9MQVNUIiwidXNlcl9lbWFpbCI6Im51bGwiLCJ1c2VyX3Bob25lIjoiMDkxMTQxMTQxMSIsInBsYXRmb3JtIjpudWxsLCJ1c2VyX2F2YXRhciI6Imh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9vcHAtZGlzcGF0Y2gtc3RhZ2luZy9hY2NvdW50LWFjdGl2YXRlLzVkNzhiNDM2LTY5ZDQtNDdlYi1iN2IxLTg1MDViZDBiMzU0MS9iYi5wbmciLCJ1c2VyX2lkIjoiLUdZZ1Z2IiwiaWF0IjoxNzAxMzQ5MjI3fQ.yOtl52Za65M01IHfNhQPeAGnLTHqLJMCv6vy37hw6-Y",
-    "URL_bacnet": "https://mioc-bacnet-stg.tossakan.io:65000",
+    "URL_bacnet": "https://mioc-bacnet-stg.metthier.ai:65000",
     "URL_bacnet_mqtt_address": "mqtt-open.metthier.ai",
     "URL_bacnet_mqtt_port": "61883",
     "URL_know": "https://metthier.know-staging.kdlab.dev:45000/",
@@ -24,7 +24,7 @@
   },
   "socket": {
     "incident": {
-      "wss": "wss://odd-stg.tossakan.io:65000/api/v2/incident",
+      "wss": "wss://odd-stg.metthier.ai:65000/api/v2/incident",
       "subscribe": [
         "SUBSCRIBE:INCIDENT_ALL_SITE",
         "SUBSCRIBE:INCIDENT_ALL_SITE_UPDATE"

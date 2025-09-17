@@ -7,11 +7,13 @@
       "namespace": [
         {
           "name": "metthier",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "sky",
-          "active": true
+          "active": true,
+          "version": 0
         }
       ]
     },
@@ -21,55 +23,68 @@
       "namespace": [
         {
           "name": "planb",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbair5",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbair8",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbargnarong",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbchaloemmahanakhon",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbmakkasan",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbrama4",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbratchavipharajayothin",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbratchavipharama7",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbsirikit",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbsuwanchin",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbb",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "planbvip",
-          "active": true
+          "active": true,
+          "version": 0
         }
       ]
     },
@@ -79,7 +94,8 @@
       "namespace": [
         {
           "name": "tararom",
-          "active": true
+          "active": true,
+          "version": 0
         }
       ]
     },
@@ -89,11 +105,13 @@
       "namespace": [
         {
           "name": "boonrawd",
-          "active": true
+          "active": true,
+          "version": 0
         },
         {
           "name": "singhacomplex",
-          "active": true
+          "active": true,
+          "version": 0
         }
       ]
     },
@@ -103,11 +121,13 @@
       "namespace": [
         {
           "name": "scasset",
-          "active": true
+          "active": true,
+          "version": 0
         },
-	{
+        {
           "name": "scassetpb",
-          "active": true
+          "active": true,
+          "version": 0
         }
       ]
     }

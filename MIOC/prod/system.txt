@@ -34,7 +34,6 @@
       ]
     },
     "playback": [
-      "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=metthier",
       "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=planb",
       "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=tararom",
 	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=boonrawd",

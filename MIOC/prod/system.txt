@@ -36,8 +36,7 @@
     "playback": [
       "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=planb",
       "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=tararom",
-	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=boonrawd",
-	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=sc_asset"
+	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=boonrawd"
     ],
     "Multiuser": "wss://mioc-user.metthier.ai",
     "bacnet" : "wss://mioc-bacnet-socket.metthier.ai"

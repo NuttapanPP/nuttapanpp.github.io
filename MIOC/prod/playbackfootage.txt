@@ -2,6 +2,7 @@
   "isUse": true,
   "isUseAll": false,
   "footage": [
-    "metthier"
+    "metthier",
+"sc_asset"
   ]
 }

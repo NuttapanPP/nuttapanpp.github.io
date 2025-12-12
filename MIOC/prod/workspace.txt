@@ -13,7 +13,7 @@
         {
           "name": "sky",
           "active": true,
-          "version": 1
+          "version": 0
         }
       ]
     },

@@ -90,11 +90,11 @@
     },
     {
       "name": "Tararom",
-      "active": true,
+      "active": false,
       "namespace": [
         {
           "name": "tararom",
-          "active": true,
+          "active": false,
           "version": 0
         }
       ]

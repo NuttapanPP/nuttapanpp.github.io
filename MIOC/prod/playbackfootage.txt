@@ -1,6 +1,6 @@
 {
   "isUse": true,
-  "isUseAll": false,
+  "isUseAll": true,
   "footage": [
     "metthier",
 "sc_asset"

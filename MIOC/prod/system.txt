@@ -35,11 +35,7 @@
           "SUBSCRIBE:INCIDENT_ALL_SITE_UPDATE"
       ]
     },
-    "playback": [
-      "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=planb",
-      "wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=tararom",
-	"wss://cms-gateway.metthier.ai/gateway/playbackincident?cms=boonrawd"
-    ],
+    "playback": [],
     "Multiuser": "wss://mioc-user.metthier.ai",
     "bacnet" : "wss://mioc-bacnet-socket.metthier.ai"
   }
